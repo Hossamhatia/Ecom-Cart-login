@@ -2,5 +2,5 @@
     <div class="panel-body">
       Panel content
     </div>
-    <div class="panel-footer">Panel footer</div>
+    <div class="panel-footer">&copy-Copy Rights By Hossam Hassan</div>
   </div>
